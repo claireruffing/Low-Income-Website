@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Low Income Website
+
+To create a website that provides financial resources to our target users, the low-income community in California. This was a group project with three other people.
+
+More information about this project is at https://www.claireruffingportfolio.com/post/low-income-website
+
+## Key Technologies
+
+Frontend: React and Material-UI
+
+Designing Prototypes: Adobe XD
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
