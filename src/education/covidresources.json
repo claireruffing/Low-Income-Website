@@ -1,0 +1,33 @@
+{
+    "Laptop Resources": [
+        {
+            "name": "Laptops 4 Learning",
+            "description": "Our Mission is to significantly reduce the Digital Technology Divide experienced by students from socio-economically disadvantaged families. IDENTIFY Elementary School, Middle School, High School, College students, and Military veterans who have a need for a computer to pursue education and/or career goals, then SUPPLY them with a Laptop.",
+            "link": "https://laptops4learning.com/",
+            "imageLink": "https://laptops4learning.com/wp-content/uploads/2020/05/L4L-LOGO-SMALL.png"
+        }, {
+            "name": "PCs for People",
+            "description": "Through electronic reuse PCs for People provides the opportunity for all low-income individuals and nonprofits to benefit from the life changing impact of computers and mobile internet.",
+            "link": "https://www.pcsforpeople.org/eligibility/",
+            "imageLink": "https://www.pcsforpeople.org/wp-content/uploads/2018/03/Gray-Horiz-1.png"
+        }, {
+            "name": "The On It Foundation",
+            "description": "The On It Foundation is a National 501(c )(3) public non-profit that provides free computers, computer training and Internet to low-income families with students in grades K-12 that receive a free or reduced school lunch, attend a public school and reside within the United States. The On It Foundation was Founded by Calvetta Phair in November 1999. Please visit their FAQ section for details on how to apply for a free computer.",
+            "link": "https://theonitfoundation.org/faqs/",
+            "imageLink": "http://theonitfoundation.org/wp-content/uploads/2013/06/logo.jpg"
+        }, {
+            "name": "Computers with Causes",
+            "description": "Computers with Causes is part of the Giving Center program which is a broad based community expression of charitable giving, both on an individual and corporate level.",
+            "link": "https://www.computerswithcauses.org/application.htm",
+            "imageLink": "https://www.computerswithcauses.org/images/logo.png"
+        }
+    ],
+    "Internet Resources": [
+        {
+            "name": "everyoneon",
+            "description": "At EveryoneOn, we believe in the democratizing power of the internet and technology, especially for low-income and marginalized communities. Our mission is to create social and economic opportunity by connecting low-income families to affordable internet service and computers, and delivering digital skills trainings. The opportunity to connect communities with these tools and provide digital skills trainings as a way to create significant positive change in our society is what drives and inspires our work everyday.",
+            "link": "https://www.everyoneon.org/lowcost-offers",
+            "imageLink": "https://static1.squarespace.com/static/5aa8af1fc3c16a54bcbb0415/t/5c0b50194fa51a5aed42a120/1607620687812/?format=1500w"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "Computer Science": [
+        {
+            "name": "The Science Ambassador Scholarship",
+            "description": "A full–tuition scholarship for a woman in science, technology, engineering, or math. Funded by Cards Against Humanity. Applications close December 14th, 2020 at 11:59PM CST.",
+            "link": "https://www.scienceambassadorscholarship.org/"
+        }, {
+            "name": "AACE International Competitive Scholarships",
+            "description": "This scholarship is available to full-time students pursuing a degree in computer science, engineering, information technology and other degrees directly related to the field of cost engineering  and cost management. Students must be in good academic standing and attending an accredited college of university.",
+            "link": "https://web.aacei.org/resources/career-mentoring-center/scholarships"
+        }, {
+            "name": "Microsoft Tuition Scholarship",
+            "description": "Microsoft encourages and supports underrepresented populations in computer science. All students can apply for this scholarship, but women, minorities, and students with disabilities receive preference. Recipients must apply for a summer internship; if invited, they must complete an internship at the Microsoft Corporation in Redmond, Washington. Applicants must be undergraduate students currently",
+            "link": "https://careers.microsoft.com/students/us/en/usscholarshipprogram"
+        }, {
+            "name": "(ISC)² Graduate Scholarship",
+            "description": "The (ISC)² Graduate Scholarship is designed to help graduate students who are enrolled in an university or college where they study to reach a degree on cybersecurity or information assurance.",
+            "link": "https://www.iamcybersafe.org/s/"
+        }, {
+            "name": "Jeannette Rankin Women’s Scholarship Fund",
+            "description": "The Jeannette Rankin Women’s Scholarship Fund awards scholarships to low-income women each autumn. The main aim of this foundation is to support women break free of generational poverty  by achieving post-secondary education. That way they will not only be more educated and self-confident, but economically empowered as well.",
+            "link": "https://rankinfoundation.org/"
+        }
+    ],
+    "Engineering": [
+        {
+            "name": "The Barry Goldwater Scholarship and Excellence in Education Foundation",
+            "description": "Each year, 300 students from the United States receive scholarships valued at $7,500 each from the Barry Goldwater Scholarship and Excellence in Education Foundation. The awards are part of an effort to increase numbers of highly trained scientists, engineers, and mathematicians for the future technological workforce.  To honor Mr. Goldwater, outstanding college students who intend to pursue careers in STEM fields are recognized with educational scholarships.",
+            "link": "https://goldwater.scholarsapply.org/"
+        }, {
+            "name": "Siemens Corporation",
+            "description": "The company Foundation distributes over seven million dollars worth of academic assistance annually, to students engaged in STEM education.  Maintaining a focus on innovation, the awards are granted to science, technology, engineering and mathematics applicants in three distinct categories.  The Foundation’s newest educational initiative encourages secondary school students to advance green ideas and practices.",
+            "link": "https://new.siemens.com/us/en.html"
+        }, {
+            "name": "Association For Women In Science Scholarships",
+            "description": "Female high school seniors who plan to study engineering, science, and mathematics at accredited colleges are aided by scholarships from the Association for Women in Science. All applicants must be pursuing careers in either research or teaching to qualify for awards ranging from $100 to $1,000.  Additional women-only engineering scholarships are illuminated further on our Women’s Scholarships Page.",
+            "link": "http://www.collegescholarships.org/women.htm"
+        }, {
+            "name": "Korean-American Scientists And Engineers Association Scholarships",
+            "description": "Korean-American engineering students benefit from eight $1,000 scholarships offered annually by the Korean-American Scientists and Engineers Association. Scholarships are awarded based on each applicant’s record of academic success and professional potential as demonstrated by transcripts, essays and letters of recommendation.  Candidates are also required to submit detailed resumes outlining work experience and extracurricular activities. Undergraduate and graduate students compete for scholarships offered by the Korean-American Scientists and Engineers Association, and successful applicants are members of the organization, or have a parent who is a member. For additional information, please visit the KSEA Scholarship page.",
+            "link": "https://scholarship.ksea.org/"
+        }, {
+            "name": "SWE Scholarships",
+            "description": "Society of Women Engineers is a strong advocate for higher education in technology fields.  Scholarships benefit women enrolled in ABET-accredited engineering and computer science degree programs at the baccalaureate and graduate levels.  The umbrella of SWE scholarships is wide, so students are invited to fill out a single application that places them in line for all available awards.",
+            "link": "https://swe.org/"
+        }
+    ],
+    "Art": [
+        {
+            "name": "Artistic Excellence in Print Design & Marketing Scholarship",
+            "description": "A $1000 annual scholarship for U.S. current undergraduate or graduate students majoring in Graphic Arts & Design or a related field, and enrolled in an accredited college, university or other higher-learning institution.",
+            "link": "http://www.printaholic.com/scholarship/"
+        }, {
+            "name": "CBC Spouses Visual Arts Scholarship",
+            "description": "The CBC Foundation offers a scholarship worth $3,000, renewed annually. Scholarships are awarded to students for the visual and decorative arts. Application for the scholarship is open to U.S citizens and those residing in the U.S on a permanent basis.",
+            "link": "https://cbcfinc.academicworks.com/"
+        }, {
+            "name": "CINTAS Knight Foundation Fellowship in Visual Art",
+            "description": "The CINTAS foundation in partnership with the Miami Dade College offers scholarships for the media arts. The fellowships offered are non-academic in nature, and are intended to nurture artistic talent among Cubans. The foundation categorically aims to support architectural, literature, and visual arts among Cubans, and individuals of Cuban descent.",
+            "link": "http://cintasfoundation.org/index.php/fellowships/visual-arts-fellowship"
+        }
+    ],
+    "Political Science": [
+        {
+            "name": "Black Girl 44 Scholarship",
+            "description": "The Black Girl 44 Scholarship is there to recognize, respect and welcome females involved in politics and global relations, so if you are a college student looking to get involved in politics, a Washington, D.C. internship is the right thing for you. However, many students do not apply because they cannot afford it and that especially affects Black and African-American students.Through this scholarship, they will get an equal and fair opportunity.",
+            "link": "https://www.blackgirl44.com/about"
+        }, {
+            "name": "Boren Fellowships",
+            "description": "Boren Fellowships is an initiative of the National Security Education Program. Their main goal is to provide unique funding opportunities for U.S. graduate students to study less commonly taught languages in world regions critical to U.S. interests. Those are Africa, Asia, Central, and Eastern Europe, Eurasia, Latin America, and the Middle East. The countries of Western Europe, Canada, Australia, and New Zealand are not included.",
+            "link": "https://www.borenawards.org"
+        }, {
+            "name": "Gloria Barron Wilderness Society Scholarship",
+            "description": "The Gloria Barron Wilderness Society Scholarship has the aim to encourage individuals who have the potential to make a significant positive difference in wilderness protection in the United States by providing financial help.",
+            "link": "https://www.wilderness.org/articles/article/gloria-barron-wilderness-society-scholarship-how-apply"
+        }, {
+            "name": "Hertog Fellowships & Seminars",
+            "description": "The Hertog Foundation is a political education institution with offices in DC and New York whose aim is to support programs in American intellectual, civic, and political thought and to provide financial aid to good standing students eager to reach higher education goals.",
+            "link": "https://hertogfoundation.org/application"
+        }
+    ],
+    "Biology": [
+        {
+            "name": "Libbie H. Hyman Memorial Scholarship",
+            "description": "This scholarship is given to one lucky undergraduate or graduate biology student each year. Awards range from $750 to $1000. Deadlines are usually in early March.",
+            "link": ""
+        }, {
+            "name": "The ASPET Summer Undergraduate Research Fellow (SURF)",
+            "description": "The ASPET Summer Undergraduate Research Fellow (SURF) Awards have the goal to support mentored research experiences in pharmacology so as to improve students’ interest in research and related health care disciplines.",
+            "link": "https://www.listsofscholarships.com/aspet-summer-undergraduate-research-fellow-surf-individual-awards/"
+        }, {
+            "name": "ExxonMobil Bernard Harris Math and Science Scholarships",
+            "description": "The ExxonMobil Bernard Harris Math and Science Scholarships have been awarded for many years and the main goal of this award is to encourage minority students to pursue college degrees and careers in science, technology, engineering, and math.",
+            "link": "https://www.cgcs.org/Page/47"
+        }, {
+            "name": "",
+            "description": "The Jesse Jackson Fellows – Toyota Scholarship program offers students an amazing opportunity to earn some money for college while pursuing their educational goals.The Jesse Jackson Fellows-Toyota Scholarship has the purpose to assist young people who are qualified but lack the financial resources to attend college and the most deserving applicant will be determined after all the applications are evaluated by a committee of educators and corporate executives.",
+            "link": ""
+        }
+    ],
+    "Chemistry": [
+        {
+        "name": "AECOM Scholarship",
+        "description": "The AECOM awards an outstanding $5,000 academic scholarship to support students who are experiencing financial difficulties while trying to reach their higher education degrees.",
+        "link": "https://www.awwa.org/Water-Equation/AWWA-Scholarship-Award-Program"
+        }, {
+            "name": "The ASPET Summer Undergraduate Research Fellow (SURF)",
+            "description": "The ASPET Summer Undergraduate Research Fellow (SURF) Awards have the goal to support mentored research experiences in pharmacology so as to improve students’ interest in research and related health care disciplines.",
+            "link": "https://www.listsofscholarships.com/aspet-summer-undergraduate-research-fellow-surf-individual-awards/"
+        }, {
+            "name": "Holly A. Cornell Scholarship",
+            "description": "The Holly A. Cornell Scholarship has been awarded since 1990 and it is named after and so as to honor its co-founder Holly A. Cornell.",
+            "link": "https://www.awwa.org/Water-Equation/AWWA-Scholarship-Award-Program"
+        }
+    ]
+}
